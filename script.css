@@ -1,0 +1,5 @@
+li a:hover{
+    background-color: brown;
+    color: aquamarine !important;
+    border-radius: 10%;
+}
